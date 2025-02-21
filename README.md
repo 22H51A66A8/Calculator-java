@@ -1,9 +1,9 @@
 # Calculator-java
-#Description
+# Description
 
 This is a simple Java-based calculator application using the Swing library for the GUI. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-#Features
+# Features
 
 Graphical User Interface (GUI) using Swing
 
@@ -13,7 +13,7 @@ Clear button to reset input
 
 Grid layout for organized button placement
 
-#Technologies Used
+# Technologies Used
 
 Java
 
